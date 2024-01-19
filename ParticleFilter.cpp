@@ -5,6 +5,7 @@
 #include <random>
 #include <fstream>
 #include <sstream>
+#include <corecrt_math_defines.h>
 
 using namespace std;
 
