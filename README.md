@@ -13,7 +13,7 @@ The Particle Filter Localization project is a C++ implementation of a particle f
 - **File Handling:** Robot movements are read from a CSV file located at `C:/Users/DELL/Downloads/robot.csv`. Ensure your CSV file follows the expected format.
 
 ## 🏷️ How to Use
-**1. Clone the Repository**
-**2. Compile the Code & Run the Program**
-**3. Input Data:**
+- **Clone the Repository**
+- **Compile the Code & Run the Program**
+- **Input Data**
 The program reads robot movements from a CSV file located at C:/Users/DELL/Downloads/robot.csv. Ensure your CSV file follows the expected format.
