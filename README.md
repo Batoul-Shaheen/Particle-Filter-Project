@@ -10,7 +10,7 @@ The Particle Filter Localization project is a C++ implementation of a particle f
 
 - **Sensor Model:** The `update` function adjusts particle weights based on sensor measurements and the environment's grid values.
 
-- **File Handling:** Robot movements are read from a CSV file located at `C:/Users/DELL/Downloads/robot.csv`. Ensure your CSV file follows the expected format.
+- **File Handling:** Robot movements are read from a CSV file.
 
 ## 🏷️ How to Use
 - **Clone the Repository**
